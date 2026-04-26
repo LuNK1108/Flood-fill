@@ -8,7 +8,7 @@ O sistema permite preencher pixels ao redor de uma área selecionada em uma imag
 
 - Fila
 - Pilha
-- Nos
+- Nós
 
 O objetivo do projeto é praticar estruturas de dados e manipulação gráfica em Java.
 
